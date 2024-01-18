@@ -88,7 +88,7 @@ vec3 integrateIBL(float a ,float NoV){
 }
 ~~~
 
-Normal ● View와 Roughness에 따른 BRDF값을 미리 계산한다.
+Normal $\cdot$ View와 Roughness에 따른 BRDF값을 미리 계산한다.
 <br>
 
 ### Render
