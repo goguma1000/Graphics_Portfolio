@@ -1,6 +1,6 @@
 # IBL
 ## Demo
-<img src = "https://github.com/goguma1000/Graphics_Portfolio/blob/main/srcIMG/IBL_Demo_1.gif?raw=true"  align = 'center'/> | <img src = "https://private-user-images.githubusercontent.com/102130574/297830700-991e01e4-a1c7-46e2-bf48-9186b52e8db1.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2MDAwODIsIm5iZiI6MTcwNTU5OTc4MiwicGF0aCI6Ii8xMDIxMzA1NzQvMjk3ODMwNzAwLTk5MWUwMWU0LWExYzctNDZlMi1iZjQ4LTkxODZiNTJlOGRiMS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxNzQzMDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYTE0ZmE5ZGEyMGQ5ZTEzNGFhMjMxNzE1MGY4MjlmM2UyMTg1ZDJiNzhkMWViNjhjMzcxZjU2YTlhMjFiMTYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.flzGdjpbN9IjhYdjqMAnpb4f0Gye15prhK885B043t4" width = '318' height = '180' align = "center">
+<img src = "https://github.com/goguma1000/Graphics_Portfolio/blob/main/srcIMG/IBL_Demo_1.gif?raw=true"  align = 'center'/> | <img src = "https://github.com/goguma1000/Graphics_Portfolio/blob/main/srcIMG/IBL_Demo_2.gif?raw=true" width = '318' height = '180' align = "center">
 ---|---|
 
 ## Code
