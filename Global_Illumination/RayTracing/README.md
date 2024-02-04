@@ -28,7 +28,7 @@ virtual IntersectionData intersection(const Ray& ray)const override {
 }
 ~~~
 
-참고문헌: [Line-sphere intersection -Wikipedia]("https://en.wikipedia.org/wiki/Line%E2%80%93sphere_intersection")
+참고문헌: [Line-sphere intersection -Wikipedia](https://en.wikipedia.org/wiki/Line%E2%80%93sphere_intersection)
 
 ### Plane
 ~~~c++
@@ -45,7 +45,7 @@ virtual IntersectionData intersection(const Ray& ray) const override {
 		return ret;
 }
 ~~~
-참고문헌: [Line-lane intersection -Wikipedia]("https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection")
+참고문헌: [Line-lane intersection -Wikipedia](https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection)
 
 ### Triangle
 ~~~c++
@@ -75,7 +75,7 @@ virtual IntersectionData intersection(const Ray& ray) const override {
 }
 ~~~
 
-참고문헌: [A Beautiful Ray/Triangle Intersection Method]("https://tavianator.com/2014/ray_triangle.html")
+참고문헌: [A Beautiful Ray/Triangle Intersection Method](https://tavianator.com/2014/ray_triangle.html)
 
 ### Ray cast
 ~~~c++
